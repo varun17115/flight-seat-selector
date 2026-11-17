@@ -397,3 +397,4 @@ export default function BookingModal({ isOpen, onClose, onBookingSuccess }) {
     </div>
   );
 }
+

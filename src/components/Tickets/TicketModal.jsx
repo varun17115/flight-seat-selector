@@ -240,3 +240,4 @@ export default function TicketModal({ ticket, isOpen, onClose }) {
     </div>
   );
 }
+

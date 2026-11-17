@@ -178,3 +178,4 @@ export default function MyBookingsModal({ isOpen, onClose, onViewTicket }) {
     </div>
   );
 }
+
